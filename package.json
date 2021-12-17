@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author":"eao tnc"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
